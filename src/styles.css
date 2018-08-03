@@ -1,0 +1,50 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.addfriend-container {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.friend-email {
+  margin-right: 20px;
+}
+.addexpense-container {
+  display: flex;
+  border: 1px solid black;
+  justify-content: space-around;
+  height: 100px;
+  align-items: center;
+  width: 90%;
+  margin: 0px auto;
+  margin-top: 50px;
+}
+.friend-select {
+  width: 50px;
+  margin-left: 20px;
+}
+.bill-row {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+  border-bottom: 10px;
+}
+.bill-container {
+  margin-top: 20px;
+  border: 2px solid;
+  padding: 10px 30px;
+}
+.ubill-container {
+  border: 2px solid;
+  padding: 15px;
+  margin-bottom: 15px;
+}

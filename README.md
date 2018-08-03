@@ -1,2 +1,0 @@
-# splitwiseprototype
-Created with CodeSandbox
